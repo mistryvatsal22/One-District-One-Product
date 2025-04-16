@@ -63,25 +63,8 @@ One-District-One-Product/
 ├── package.json
 └── README.md
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+📸 Screenshots
+![odop](https://github.com/user-attachments/assets/16779fba-b5a8-46ce-ace1-520b2c91c578)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
